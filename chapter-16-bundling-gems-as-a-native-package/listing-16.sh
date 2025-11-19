@@ -1,0 +1,1 @@
+quickemu --vm alma-9-boot.conf

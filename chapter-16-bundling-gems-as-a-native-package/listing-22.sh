@@ -1,0 +1,1 @@
+rpm -i rubygem-my_first_gem-0.1.0-1.noarch.rpm

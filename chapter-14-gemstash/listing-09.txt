@@ -1,0 +1,22 @@
+$ find ~/.cache/gem/
+/some/path/.cache/gem/
+/some/path/.cache/gem/specs
+/some/path/.cache/gem/specs/index.rubygems.org%443
+/some/path/.cache/gem/specs/index.rubygems.org%443/quick
+/some/path/.cache/gem/specs/index.rubygems.org%443/quick/
+Marshal.4.8
+/some/path/.cache/gem/specs/index.rubygems.org%443/quick/
+Marshal.4.8/faraday_middleware-1.2.1.gemspec
+/some/path/.cache/gem/specs/index.rubygems.org%443/quick/
+Marshal.4.8/rack-test-2.1.0.gemspec
+/some/path/.cache/gem/specs/index.rubygems.org%443/quick/
+Marshal.4.8/multipart-post-2.4.1.gemspec
+/some/path/.cache/gem/specs/index.rubygems.org%443/quick/
+Marshal.4.8/faraday-excon-1.1.0.gemspec
+/some/path/.cache/gem/specs/index.rubygems.org%443/quick/
+Marshal.4.8/rack-2.2.10.gemspec
+/some/path/.cache/gem/specs/index.rubygems.org%443/quick/
+Marshal.4.8/useragent-0.16.10.gemspec
+/some/path/.cache/gem/specs/index.rubygems.org%443/quick/
+Marshal.4.8/faraday-em_http-1.0.0.gemspec
+... snip ...

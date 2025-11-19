@@ -1,0 +1,4 @@
+$ gemstash stop
+$ bundle config --delete mirror.https://rubygems.org/
+$ gem sources -r http://localhost:9292/
+http://localhost:9292/ removed from sources

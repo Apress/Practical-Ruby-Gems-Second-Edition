@@ -1,0 +1,2 @@
+$ du -sh ~/.cache/gem
+27M     /some/path/.cache/gem

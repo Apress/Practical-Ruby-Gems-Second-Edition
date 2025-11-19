@@ -1,0 +1,1 @@
+quickget ubuntu 24.04

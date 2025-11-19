@@ -1,0 +1,2 @@
+$ bundle config mirror.https://rubygems.org/
+http://localhost:9292/

@@ -1,0 +1,1 @@
+export GEM_PATH=~/fpm

@@ -1,0 +1,18 @@
+$ bundle
+Fetching gem metadata from http://localhost:9292/........
+Resolving dependencies...
+Fetching uri 1.0.2
+Fetching json 2.8.2
+Fetching logger 1.6.1
+Installing uri 1.0.2
+Fetching net-http 0.5.0
+Installing json 2.8.2 with native extensions
+Installing logger 1.6.1
+Installing net-http 0.5.0
+Fetching faraday-net_http 3.4.0
+Installing faraday-net_http 3.4.0
+Fetching faraday 2.12.1
+Installing faraday 2.12.1
+Bundle complete! 1 Gemfile dependency, 7 gems now installed.
+Use `bundle info [gemname]` to see where a bundled gem is
+installed.

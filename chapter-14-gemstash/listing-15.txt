@@ -1,0 +1,6 @@
+$ bundle
+Fetching gem metadata from http://localhost:9292/........
+Resolving dependencies...
+Bundle complete! 1 Gemfile dependency, 7 gems now installed.
+Use `bundle info [gemname]` to see where a bundled gem is
+installed.

@@ -1,0 +1,2 @@
+$ ls ~/.gemstash
+metadata.yml  puma.pid

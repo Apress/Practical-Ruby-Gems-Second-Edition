@@ -1,0 +1,25 @@
+$ gem install rails
+Fetching zeitwerk-2.7.1.gem
+Fetching rack-3.1.8.gem
+Fetching rackup-2.2.1.gem
+Fetching activesupport-8.0.0.gem
+Fetching useragent-0.16.10.gem
+Fetching nokogiri-1.16.7-x86_64-linux.gem
+Fetching crass-1.0.6.gem
+Fetching loofah-2.23.1.gem
+Fetching rails-html-sanitizer-1.6.0.gem
+Fetching rails-dom-testing-2.2.0.gem
+Fetching rack-test-2.1.0.gem
+Fetching rack-session-2.0.0.gem
+Fetching erubi-1.13.0.gem
+Fetching builder-3.3.0.gem
+Fetching actionview-8.0.0.gem
+Fetching actionpack-8.0.0.gem
+... snip ...
+Done installing documentation for zeitwerk, rack, rackup,
+activesupport, useragent, nokogiri, crass, loofah, rails-htmlsanitizer, rails-dom-testing, rack-test, rack-session, erubi,
+builder, actionview, actionpack, railties, marcel, activemodel,
+activerecord, globalid, activejob, activestorage, actiontext,
+mini_mime, mail, actionmailer, actionmailbox, websocketextensions, websocket-driver, actioncable, rails after
+56 seconds
+32 gems installed

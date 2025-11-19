@@ -1,0 +1,1 @@
+dpkg --contents rubygem-my-first-gem_0.1.0_all.deb

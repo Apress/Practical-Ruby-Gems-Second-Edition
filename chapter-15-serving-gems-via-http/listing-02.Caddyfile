@@ -1,0 +1,8 @@
+:80 {
+root * /var/www
+file_server
+encode gzip
+basic_auth {
+secret $2a$14$B1eZnGQ/PKkDe.7NOBXOhOfaWuhLn04L3T1nnlrM8NnNo8IvQTLTy
+}
+}

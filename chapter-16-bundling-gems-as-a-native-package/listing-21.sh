@@ -1,0 +1,1 @@
+fpm --gem-embed-dependencies -s gem -t rpm pkg/my_first_gem-0.1.0.gem

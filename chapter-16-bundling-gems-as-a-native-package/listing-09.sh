@@ -1,0 +1,1 @@
+~/fpm/bin/fpm --gem-embed-dependencies --verbose --gem-bin-path=/usr/local/bin -s gem -t deb pkg/my_first_gem-0.1.0.gem
