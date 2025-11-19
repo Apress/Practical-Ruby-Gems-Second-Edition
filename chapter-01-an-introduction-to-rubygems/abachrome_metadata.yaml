@@ -1,0 +1,20 @@
+--- !ruby/object:Gem::Specification
+name: abachrome
+version: !ruby/object:Gem::Version
+version: 0.1.2
+platform: ruby
+authors:
+- Durable Programming
+description: Abachrome provides a robust set of tools for
+working with various color
+formats including hex, RGB, HSL, and named colors. Features
+support for multiple
+color spaces (RGB, HSL, Lab, Oklab), color space conversion,
+gamut mapping, CSS
+color parsing and formatting, and high-precision color
+calculations using BigDecimal.
+email:
+- commercial@durableprogramming.com
+executables: []
+extensions: []
+extra_rdoc_files: []

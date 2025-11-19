@@ -1,0 +1,1 @@
+echo 'eval "$(~/.local/bin/mise activate zsh)"' >> ~/.zshrc

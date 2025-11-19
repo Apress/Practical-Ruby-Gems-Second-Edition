@@ -1,0 +1,6 @@
+[env]
+GEM_HOME = "{{config_root}}/.gems"
+GEM_PATH = "{{config_root}}/.gems"
+
+[tools]
+ruby = "3.3.4"
