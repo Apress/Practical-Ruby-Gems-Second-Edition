@@ -1,0 +1,11 @@
+$ tar -tvzf data.tar.gz
+-rw-rw-r-- wheel/wheel     157 2024-11-30 17:59 .rubocop.yml
+-rw-rw-r-- wheel/wheel      60 2024-11-30 17:59 CHANGELOG.md
+-rw-rw-r-- wheel/wheel    5487 2024-11-30 17:59 CODE_OF_CONDUCT.md
+-rw-rw-r-- wheel/wheel    1091 2024-11-30 17:59 LICENSE.txt
+-rw-rw-r-- wheel/wheel    2306 2024-11-30 17:59 README.md
+-rw-rw-r-- wheel/wheel     199 2024-11-30 17:59 Rakefile
+-rw-rw-r-- wheel/wheel     156 2024-11-30 17:59 lib/my_first_gem.rb
+-rw-rw-r-- wheel/wheel      73 2024-11-30 17:59 lib/my_first_gem/version.rb
+-rw-rw-r-- wheel/wheel    1542 2024-11-30 17:59 my_first_gem.gemspec
+-rw-rw-r-- wheel/wheel     109 2024-11-30 17:59 sig/my_first_gem.rbs

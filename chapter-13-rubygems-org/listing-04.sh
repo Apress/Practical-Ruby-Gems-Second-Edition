@@ -1,0 +1,1 @@
+$ gem owner GEM -r NEW_OWNER_ID

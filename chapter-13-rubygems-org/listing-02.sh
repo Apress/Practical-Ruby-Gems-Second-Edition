@@ -1,0 +1,3 @@
+$ gem push pkg/some-gem-0.1.6.gem
+Pushing gem to https://rubygems.org...
+Successfully registered gem: some-gem (0.1.6)

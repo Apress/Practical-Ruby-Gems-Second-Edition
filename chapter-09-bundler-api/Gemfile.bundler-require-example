@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+
+gem 'test_gem_a'
+gem 'test_gem_b', require: nil
+
+group :test do
+    gem 'test_gem_c'
+end

@@ -1,0 +1,31 @@
+FROM alpine:3.19
+
+RUN apk add --no-cache \
+    git \
+    curl \
+    build-base \
+    openssl-dev \
+    readline-dev \
+    zlib-dev \
+    yaml-dev \
+    vips-dev \
+    bash
+
+RUN git clone https://github.com/rbenv/ruby-build.git /tmp/ruby-build && \
+    cd /tmp/ruby-build && \
+    ./install.sh && \
+    rm -rf /tmp/ruby-build
+
+RUN ruby-build 3.3.0 /usr/local
+
+ENV PATH="/usr/local/bin:$PATH"
+
+WORKDIR /app
+
+COPY Gemfile Gemfile.lock ./
+
+RUN gem install bundler && bundle install
+
+COPY *.rb .
+
+ENTRYPOINT ["ruby", "ruby-asciiart.rb"]
